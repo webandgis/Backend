@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Arroyaditos de primavera",
+    "price": 250
+  },
+  {
+    "id": 2,
+    "title": "Hamburguesas Veganas",
+    "price": 300
+  },
+  {
+    "id": 3,
+    "title": "Falafel",
+    "price": 170
+  }
+]
